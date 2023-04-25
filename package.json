@@ -1,0 +1,13 @@
+{
+  "name": "dao-global-hackathon-2023",
+  "version": "1.0.0",
+  "description": "A DAO to empower women and youth through digital educational communities.",
+  "main": "index.js",
+  "repository": "https://github.com/BishoDAO/dao-global-hackathon-2023.git",
+  "author": "Kachi <kachdekan@gmail.com>",
+  "license": "GPL v3.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true
+}
